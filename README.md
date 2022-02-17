@@ -2,7 +2,7 @@ Intro
 
 Solução para os desafios de programação da academia capgemini.
 
-Os desafios foram implementados na linguagem java e com a ferramenta de build maven
+Os desafios foram implementados na linguagem java 11, ferramenta de build maven e testes unitários com a lib junit
 
 
 
