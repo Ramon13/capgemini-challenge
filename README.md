@@ -1,6 +1,7 @@
 Intro
 
 Solução para os desafios de programação da academia capgemini.
+
 Os desafios foram implementados na linguagem java e com a ferramenta de build maven
 
 Executando com o comando java:
