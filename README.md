@@ -4,14 +4,18 @@ Solução para os desafios de programação da academia capgemini.
 
 Os desafios foram implementados na linguagem java e com a ferramenta de build maven
 
-Executando com o comando java:
-
-	no diretório [target/classes] execute:
-
-		java challenge.Question0x [argumento]
 
 
-Utilização: 
+Utilização:
+
+	Executando com o comando java:
+
+		no diretório [target/classes] execute:
+
+			java challenge.Question0x [argumento]
+
+
+ 
 
 	Executando os arquivos com o utilitário mvnw:
 
